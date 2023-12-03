@@ -15,7 +15,7 @@ git checkout feature
 
 To merge feature branch to master branch, use:
 git checkout master
-git merge feature
+git merge feature (Fast-forward merge)
 
 To know the current branch
 git branch
