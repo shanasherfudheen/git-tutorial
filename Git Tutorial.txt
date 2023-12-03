@@ -20,4 +20,7 @@ git merge feature
 To know the current branch
 git branch
 
+To know the difference between files
+git diff
+
 
