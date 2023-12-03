@@ -26,5 +26,11 @@ git diff
 To go back to the previous commit after making changes that are not required which is not yet committed
 git stash
 
-Another type of merge
+Another type of merge - Recursive merge
+git checkout master - commit some changes
+git checkout feature - commit some changes
+git checkout master - git merge feature
+
+To see log graphically
+git log --all --decorate --graph
 
