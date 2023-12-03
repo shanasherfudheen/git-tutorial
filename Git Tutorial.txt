@@ -26,3 +26,5 @@ git diff
 To go back to the previous commit after making changes that are not required which is not yet committed
 git stash
 
+Another type of merge
+
