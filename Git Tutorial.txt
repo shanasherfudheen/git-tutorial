@@ -1,0 +1,13 @@
+Git username configuration
+git config --global user.name "Shana Sherfudheen"
+git config --global user.email shanasherfudheen@gmail.com
+
+Go to the folder path using cd command
+cd sampleproject
+
+git init
+git add --all
+git commit -m "type commit message here"
+git status
+git log --all
+
