@@ -23,4 +23,6 @@ git branch
 To know the difference between files
 git diff
 
+To go back to the previous commit after making changes that are not required which is not yet committed
+git stash
 
