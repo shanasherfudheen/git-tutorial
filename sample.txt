@@ -1,1 +1,3 @@
 Learning Git via Youtube Channel Brototype
+
+Developer 1 committing changes
