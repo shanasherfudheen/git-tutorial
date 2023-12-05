@@ -1,3 +1,7 @@
 Learning Git via Youtube Channel Brototype
 
+
 Developer 2 editing the same file.
+
+Developer 1 committing changes
+
