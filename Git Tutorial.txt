@@ -41,4 +41,8 @@ git push origin master - master is the branch which is pushed to remote
 To clone a project,
 git clone httpslinkto clone
 
+To get all the code to our local system,
+git fetch
+git pull - fetch + merge
+
 
