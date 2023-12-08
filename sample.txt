@@ -5,3 +5,5 @@ Developer 2 editing the same file.
 
 Developer 1 committing changes
 
+Sample branch will be pushed to remote using git push remote origin sample after merging to latest code in the master
+
