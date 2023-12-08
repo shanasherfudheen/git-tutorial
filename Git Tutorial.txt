@@ -38,3 +38,7 @@ Adding code to GitHub using the following commands:
 git remote add origin linkfromGithub - origin or any other name can be used for remote, it can be git remote add hub link
 git push origin master - master is the branch which is pushed to remote
 
+To clone a project,
+git clone httpslinkto clone
+
+
